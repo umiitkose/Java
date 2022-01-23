@@ -13,7 +13,7 @@ public class DosyaOkumaYazma {
     }
 
     private static File getFile() {
-        String filePath = "/Users/kemalcagri/Documents/TCKimlikNoTest.txt";
+        String filePath = "file_path -> example --> /Users/umitkose/Documents/TCKimlikNoTest.txt";
         return new File(filePath);
     }
 
